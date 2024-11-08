@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning the Godot engine and GDScript
 - 💞️ I’m looking to collaborate on games jams (time permitting)
-- 📫 How to reach me ...
+- 📫 You can reach me over on Bluesky --> @accidentalgamedev.bsky.social
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I'm a classicly trained musician
 
